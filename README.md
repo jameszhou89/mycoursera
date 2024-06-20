@@ -1,4 +1,4 @@
-# My coursera certificates on computer science
+# My coursera certificates in computer science subjects
 
 I am excited to present a table showcasing the diverse range of courses and specializations I have completed on [Coursera.org](https://www.coursera.org), a leading online learning platform. My coursework encompasses key areas such as:
 
@@ -7,7 +7,10 @@ I am excited to present a table showcasing the diverse range of courses and spec
 3. Crucial skills in data structures, algorithms, and version control
 4. Cutting-edge fields such as artificial intelligence, machine learning, and web development
 
-Through dedicated learning and hands-on projects, I have acquired a strong skill set that I believe will be highly valuable in pursuing a career in software development, data science, or artificial intelligence. The platform's high-quality content, delivered by top universities and industry experts, has provided me with a comprehensive learning experience. I look forward to leveraging my knowledge gained and continuing to grow in these exciting domains.
+Through dedicated learning and hands-on projects, I have acquired a strong skill set in computer science that I believe will be highly valuable in pursuing a career in software development, data science, or artificial intelligence. 
+
+The platform's high-quality content, delivered by top universities and industry experts, has provided me with a comprehensive learning experience. I look forward to leveraging my knowledge gained and continuing to grow in these exciting domains.
+
 
 
 
